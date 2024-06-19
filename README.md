@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Prateek 
-- 👀 I’m interested in critical coading
+- 👀 I’m interested in critical coding
 - 🌱 I’m currently learning DSA
 - 💞️ I’m looking to collaborate on DSA and Webd.
 - 📫 How to reach me ps1324714@gmail.com
